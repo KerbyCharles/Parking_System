@@ -43,10 +43,10 @@ Diagramas BPMN representando o fluxo do estacionamento automatizado.
 ###  Casos de Uso
 Modelagem das interações entre usuários e o sistema.
 
-<!###  Diagrama de Classes
+<! ###  Diagrama de Classes
 Estrutura das entidades, atributos e relacionamentos do sistema.-->
 
-<!###  Storyboard
+<! ###  Storyboard
 Protótipo visual das telas e fluxo de navegação do sistema. -->
 
 ###  TAP
@@ -78,9 +78,8 @@ docs/
 ##  Fora do Escopo
 
 - Integração bancária
-- Sistema real de pagamentos
 - Implementação de hardware físico
-- Aplicativo mobile
+
 
 ---
 
