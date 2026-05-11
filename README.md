@@ -59,18 +59,18 @@ Termo de Abertura do Projeto acadêmico.
 ```text
 docs/
 ├── pdf/
-│   ├── brainstorm.pdf
-│   ├── bpmn.pdf
+│   ├── class.pdf
+│   ├── tap.pdf
 │   └── caso-de-uso.pdf
 │
 ├── images/
-│   ├── brainstorm.png
+│   ├── storyboard.png
 │   ├── bpmn.png
-│   └── storyboard.png
+│   
 │
 └── editaveis/
-    ├── brainstorm.drawio
-    └── bpmn.bpm
+    ├── brainstorm.docx
+    
 ```
 
 ---
